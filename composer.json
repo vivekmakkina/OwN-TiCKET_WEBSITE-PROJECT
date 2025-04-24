@@ -1,0 +1,12 @@
+{
+    "name": "vivek/movie-booking",
+    "authors": [
+        {
+            "name": "Vivek",
+            "email": "vivek@gmail.com"
+        }
+    ],
+    "require": {
+        "twilio/sdk": "^8.5"
+    }
+}
